@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d0d4aba0-7252-45f2-8824-19e23bbe380e" name="raspberry" url="http://172.16.0.40">
+        <fileTransfer host="172.16.0.40" port="22" rootFolder="/home/lucasantarella/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
